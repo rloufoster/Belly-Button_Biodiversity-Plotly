@@ -3,7 +3,7 @@
 ## Purpose:
 
 
-The purpose of this project is to use Javascript, Plotly, Bootstrap and D3.js to build an interactive dashboard that visualizes the diversity of bacterial cultures that thrive in the human navel. The deliverables requested are as follows:
+- The purpose of this project is to use Javascript, Plotly, Bootstrap and D3.js to build an interactive dashboard that visualizes the diversity of bacterial cultures that thrive in the human navel. The deliverables requested are as follows:
 
  * Create a Horizontal Bar Chart
  * Create a Bubble Chart
@@ -15,28 +15,32 @@ The purpose of this project is to use Javascript, Plotly, Bootstrap and D3.js to
  
  * VS Code was used to write Javascript Code, charts.js and index.html.
 
-Below is a graphic pulled from the NC State-The Public Science Lab website that depicts the cultures being studied.
+- Below is a graphic pulled from the NC State-The Public Science Lab website that depicts the cultures being studied.
 
 ![Belly Button Biodiversity Showcase](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/BacteriaShowcase.png?raw=true)
 
 
 ## Results:
 
- * **Deliverable 1 - Horizontal Bar Chart
+ * **Deliverable 1 - Horizontal Bar Chart**
  
  ![Deliverable1_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_1_Graphic.png?raw=true)
  
  
- * **Deliverable 2 - Bubble Chart
+ 
+ * **Deliverable 2 - Bubble Chart**
   
  ![Deliverable2_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_2_Graphic.png?raw=true)
  
+ 
   
- * **Deliverable 3 - Gauge Chart
+ * **Deliverable 3 - Gauge Chart**
   
  ![Deliverable3_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_3_Graphic.png?raw=true)
  
-  
- * **Deliverable 4 - Customized Interactive Dashboard
  
-Please visit my[Belly Button Biodiversity webpage](https://rloufoster.github.io/Belly-Button_Biodiversity-Plotly/) for the interactive dashboard.
+  
+ * **Deliverable 4 - Customized Interactive Dashboard**
+ 
+ 
+ * **Please visit my [Belly Button Biodiversity webpage](https://rloufoster.github.io/Belly-Button_Biodiversity-Plotly/) for the interactive dashboard.**
