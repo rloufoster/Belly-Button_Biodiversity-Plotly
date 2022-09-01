@@ -17,24 +17,24 @@ The purpose of this project is to use Javascript, Plotly, Bootstrap and D3.js to
 
 Below is a graphic pulled from the NC State-The Public Science Lab website that depicts the cultures being studied.
 
-![Belly Button Biodiversity Showcase]()
+![Belly Button Biodiversity Showcase](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/BacteriaShowcase.png?raw=true)
 
 
 ## Results:
 
  * **Deliverable 1 - Horizontal Bar Chart
  
- ![Deliverable1_Graphic]()
+ ![Deliverable1_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_1_Graphic.png?raw=true)
  
  
  * **Deliverable 2 - Bubble Chart
   
- ![Deliverable2_Graphic]()
+ ![Deliverable2_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_2_Graphic.png?raw=true)
  
   
  * **Deliverable 3 - Gauge Chart
   
- ![Deliverable3_Graphic]()
+ ![Deliverable3_Graphic](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/Images/Del_3_Graphic.png?raw=true)
  
   
  * **Deliverable 4 - Customized Interactive Dashboard
