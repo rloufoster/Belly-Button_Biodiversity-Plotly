@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-## Purpose:
+# Purpose:
 
 
 - The purpose of this project is to use Javascript, Plotly, Bootstrap and D3.js to build an interactive dashboard that visualizes the diversity of bacterial cultures that thrive in the human navel. The deliverables requested are as follows:
@@ -20,7 +20,7 @@
 ![Belly Button Biodiversity Showcase](https://github.com/rloufoster/Belly-Button_Biodiversity-Plotly/blob/main/static/BacteriaShowcase.png?raw=true)
 
 
-## Results:
+# Results:
 
  * **Deliverable 1 - Horizontal Bar Chart**
  
@@ -40,7 +40,6 @@
  
  
   
- * **Deliverable 4 - Customized Interactive Dashboard**
+ * **Deliverable 4 - Customized Interactive Dashboard** - 
  
- 
- * **Please visit my [Belly Button Biodiversity webpage](https://rloufoster.github.io/Belly-Button_Biodiversity-Plotly/) for the interactive dashboard.**
+ **Please visit my [Belly Button Biodiversity webpage](https://rloufoster.github.io/Belly-Button_Biodiversity-Plotly/) for the interactive dashboard.**
